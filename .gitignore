@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+./code/meraki/
 
 # Spyder project settings
 .spyderproject
